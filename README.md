@@ -1,2 +1,2 @@
 # hello-world
-This repository holds all my blueberries
+This repository holds all my potatoes
